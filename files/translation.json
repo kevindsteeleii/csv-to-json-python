@@ -1,0 +1,259 @@
+[{
+  "description": {
+    "event_label": "Prescribing Information",
+    "name": "PDF but hosted on Esperion",
+    "class_event": "gtm-link-internal"
+  }
+}, {
+  "description": {
+    "event_label": "Important Safety Information",
+    "name": "Link",
+    "class_event": "gtm-link-internal"
+  }
+}, {
+  "description": {
+    "event_label": "Nexletol Logo",
+    "name": "Link",
+    "class_event": "gtm-link-internal"
+  }
+}, {
+  "description": {
+    "event_label": "Press Release",
+    "name": "CTA - Press Release Button",
+    "class_event": "gtm-cta"
+  }
+}, {
+  "description": {
+    "event_label": "Registered Nurse / Licensed Practical Nurse",
+    "name": "Form - What is your role?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Doctor / Physician",
+    "name": "Form - What is your role?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Nurse Practitioner / Physicians Assistant",
+    "name": "Form - What is your role?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Pharmacist / Pharmacy Technician",
+    "name": "Form - What is your role?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Other - Role",
+    "name": "Form - What is your role?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Cardiology",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Family Medicine",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Endocrinology",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "General Medicine",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Hepatology",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Internal Medicine",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Lipidology",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Primary Care",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Other - Specialty",
+    "name": "Form - What is your specialty?",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Prefix",
+    "name": "Form - Prefix",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "First Name",
+    "name": "Form - First Name",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Last Name",
+    "name": "Form - Last Name",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Suffix",
+    "name": "Form - Suffix",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Email Address",
+    "name": "Form - Email Address",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Office Zip Code",
+    "name": "Form - Office Zip Code",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "NPI Number",
+    "name": "Form - NPI Number",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Postal Mail",
+    "name": "Form - Postal Mail",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Affiliated Hospital",
+    "name": "Form - Affiliated Hospital",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Office Name",
+    "name": "Form - Office Name",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Office Address",
+    "name": "Form - Office Address",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Office Address 2",
+    "name": "Form - Office Address 2",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Office City",
+    "name": "Form - Office City",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Office State",
+    "name": "Form - Office State",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Agree Terms and Conditions",
+    "name": "Form - Terms and Conditions",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Privacy Policy",
+    "name": "Form -- Privacy Policy",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Terms of Use",
+    "name": "Form - Terms of Use",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Keep Me Up to Date",
+    "name": "Form - Keep Me Up to Date",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Success Submit (Thank You Page)",
+    "name": "Form - Success Submit (Thank You Page)",
+    "class_event": "gtm-form"
+  }
+}, {
+  "description": {
+    "event_label": "Back to Homepage",
+    "name": "CTA - Back to Homepage",
+    "class_event": "gtm-cta"
+  }
+}, {
+  "description": {
+    "event_label": "Expand ISI",
+    "name": "Important Safety Information",
+    "class_event": "gtm-isi"
+  }
+}, {
+  "description": {
+    "event_label": "Close ISI",
+    "name": "Important Safety Information",
+    "class_event": "gtm-isi"
+  }
+}, {
+  "description": {
+    "event_label": "Esperion Logo",
+    "name": "Esperion Logo",
+    "class_event": "gtm-link-external"
+  }
+}, {
+  "description": {
+    "event_label": "Terms of Use",
+    "name": "Terms of Use",
+    "class_event": "gtm-link-internal"
+  }
+}, {
+  "description": {
+    "event_label": "Privacy Policy",
+    "name": "Privacy Policy",
+    "class_event": "gtm-link-internal"
+  }
+}]
